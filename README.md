@@ -28,3 +28,6 @@ Breakdown by subject:
   Math: 2 hrs
   Science: 1.5 hrs
   English: 1 hrs
+  
+ ## Notes
+   Tracking consistently helps spot which subjects need more time.
